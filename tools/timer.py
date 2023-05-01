@@ -1,5 +1,6 @@
 import time
 import numpy as np
+# 计时器
 class Timer:  #@save
     """记录多次运行时间"""
     def __init__(self):
